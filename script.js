@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Wesh?",
+    "Euhhh??",
+    "je vais te gifler hein?",
+    "donc tu crois qu'on a le temps...",
+    "Faut cliquer YES on va quitter ici!",
+    "If you say no, ton maudia au carre...",
+    "ehhh pardon!!...",
+    "YAKI...",
+    "Bon, faut me bouai Chyenne la...",
+    "Je Rigole, c'est bon faut cliquer ! ❤️"
 ];
 
 let messageIndex = 0;
